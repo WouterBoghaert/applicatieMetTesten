@@ -1,4 +1,4 @@
-package be.vdab.utils;
+package be.vdab.util;
 
 import static org.junit.Assert.*;
 
